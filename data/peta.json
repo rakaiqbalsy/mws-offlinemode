@@ -1,0 +1,33 @@
+{
+	"place" : [
+	{	
+		"lokasi": [-6.957230, 107.712032], 
+		"sponsor": "GBLA STADIUM", 
+		"pict":"Asset/img/gbla.jpg",
+		"review": "Stadion GBLA yang terletak di Gede Bage Bandung, yang merupakan homebase dari club persib bandung" 
+	},
+	{
+		"lokasi": [-6.910491, 107.673364], 
+		"sponsor": "ARCAMANIK STADIUM",
+		"pict":"Asset/img/arcamanik.jpg",
+		"review": "Stadion Arcamanik yang berada di kawasan arcamanik kota Bandung, yang biasa menjadi tempat latihan club persib bandung"
+	},
+	{
+		"lokasi": [-6.910275, 107.619710], 
+		"sponsor": "SILIWANGI STADIUM", 
+		"pict":"Asset/img/siliwangi.jpg",
+		"review": "Stadion Siliwangi berada di kawasan militer di jalan siliwangi kota bandung, Stadion ini pernah menjadi homebase club persib bandung"
+	},
+	{
+		"lokasi": [-6.916975, 107.629527], 
+		"sponsor": "SIDOLIG STADIUM", 
+		"pict":"Asset/img/sidolig.jpg",
+		"review": "Stadion Sidolig berada di jalan ahmad yani kota bandung, stadion ini sering dipakai latihan oleh club persib bandung, dan sering disebut sebagai stadion persib"
+	},
+	{
+		"lokasi": [-6.996434, 107.529621], 
+		"sponsor": "SIJALAK HARUPAT STADIUM", 
+		"pict":"Asset/img/jalak.jpg",
+		"review": "Stadion Sijalak Harupat berada di soreang Kab Bandung, stadion ini pernah menjadi homebase club persib bandung beberapa musim sebelumnya"
+	}
+	]}

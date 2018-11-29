@@ -1,0 +1,43 @@
+hmtl, body, #map {
+	height: 100%;
+	width: 100vw;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	display: grid;
+	height: 100%;
+	grid-gap: 4px;
+	grid-template-columns: repeat(8, 1fr);
+	grid-template-rows: 60% 40%;
+}
+
+.maps {
+	grid-column: 1/-1;
+}
+
+.pict {
+	background: green;
+	grid-column: 1/6;
+	text-align: center;
+}
+
+.pict p {
+	font-style: bold;
+	font-size: 16sp;
+}
+
+.review {
+	background: yellow;
+	grid-column: 6/-1;
+}
+
+.review p {
+	text-align: center;
+	font-style: bold;
+	font-size: 16sp;
+}
